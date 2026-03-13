@@ -1,9 +1,15 @@
-## Hi there 👋 I'm Anshika
+👋 Hi, I’m Anshika Mittal
 
-- 🎓 I’m a 3rd Year B.Tech CSAI student passionate about technology and innovation
-- 🔭 I’m currently working on AI-based projects like Fake Profile Detection and AgroSwap
-- 🌱 I’m currently learning Machine Learning, Deep Learning, and Data Science
-- 👯 I’m looking to collaborate on AI/ML and impactful tech projects
-- 💬 Ask me about Python, AI/ML, and Web Development
-- 📫 How to reach me: LinkedIn | Email
-- ⚡ Fun fact: I enjoy turning real-world problems into tech solutions 🚀
+👀 I’m interested in learning about technology and exploring how it can be used to solve real-world problems.
+
+🌱 I’m currently a ** B.Tech student in Computer Science (AI)** and always looking to learn new skills and improve myself.
+
+💞️ I’m looking to collaborate on **projects, team activities, and hackathons** where I can learn and build something meaningful.
+
+📫 How to reach me:
+• Gmail: [anshika701782@gmail.com](mailto:anshika701782@gmail.com)
+• LinkedIn: https://www.linkedin.com/in/anshika-mittal-368404322
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I enjoy learning new things and working on ideas that can turn into real projects 🚀
